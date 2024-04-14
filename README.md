@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
 ![javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
-![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=Query)
+![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
 ![node.js](https://img.shields.io/badge/-node-090909?style=for-the-badge&logo=node.js)
