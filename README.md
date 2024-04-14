@@ -24,8 +24,10 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliziumlion&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iliziumlion&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliziumlion&hide=,makefile,dockerfile,EJS,ruby&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliziumlion&hide=makefile,dockerfile,EJS,ruby&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Follow me
 
