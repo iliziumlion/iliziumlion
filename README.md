@@ -1,10 +1,26 @@
 [![Header](https://github.com/iliziumlion/iliziumlion/blob/main/assets/header.jpg)](https://github.com/iliziumlion)
 
-About
+<!-- About me -->
 
-Latest
+## Languages and Tools
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
+![javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
+![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=Query)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
+![node.js](https://img.shields.io/badge/-node-090909?style=for-the-badge&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=Laravel)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-090909?style=for-the-badge&logo=Codeigniter)
+![Bitrix](https://img.shields.io/badge/-Bitrix-090909?style=for-the-badge&logo=Bitrix)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 
-Languages and Tools
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css)
+![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
+![scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=scss)
 
 Follow me
 
