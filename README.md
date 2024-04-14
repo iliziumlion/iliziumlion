@@ -3,24 +3,24 @@
 <!-- About me -->
 
 ## Languages and Tools
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
-![javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
-![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
-![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
-![node.js](https://img.shields.io/badge/-node-090909?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=Laravel)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-090909?style=for-the-badge&logo=Codeigniter)
-![bitrix](https://img.shields.io/badge/-bitrix-090909?style=for-the-badge&logo=bitrix)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![PHP](https://img.shields.io/badge/-PHP-1c252c?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/-Python-1c252c?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-1c252c?style=for-the-badge&logo=MySQL)
+![javascript](https://img.shields.io/badge/-javascript-1c252c?style=for-the-badge&logo=javascript)
+![typescript](https://img.shields.io/badge/-typescript-1c252c?style=for-the-badge&logo=typescript)
+![jQuery](https://img.shields.io/badge/-jQuery-1c252c?style=for-the-badge&logo=jQuery)
+![React](https://img.shields.io/badge/-React-1c252c?style=for-the-badge&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-1c252c?style=for-the-badge&logo=vue.js)
+![node.js](https://img.shields.io/badge/-node-1c252c?style=for-the-badge&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-1c252c?style=for-the-badge&logo=Laravel)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-1c252c?style=for-the-badge&logo=Codeigniter)
+![bitrix](https://img.shields.io/badge/-bitrix-1c252c?style=for-the-badge&logo=bitrix)
+![Docker](https://img.shields.io/badge/-Docker-1c252c?style=for-the-badge&logo=docker)
 
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
-![css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css)
-![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
-![scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=scss)
+![HTML5](https://img.shields.io/badge/-HTML5-1c252c?style=for-the-badge&logo=HTML5)
+![css](https://img.shields.io/badge/-css-1c252c?style=for-the-badge&logo=css)
+![sass](https://img.shields.io/badge/-sass-1c252c?style=for-the-badge&logo=sass)
+![less](https://img.shields.io/badge/-less-1c252c?style=for-the-badge&logo=less)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliziumlion&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -30,8 +30,8 @@
 
 ## Follow me
 
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/iliziumlion)
-[![Vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk)](https://vk.com/iliziumlion)
+[![Telegram](https://img.shields.io/badge/-telegram-1c252c?style=for-the-badge&logo=telegram)](https://t.me/iliziumlion)
+[![Vk](https://img.shields.io/badge/-vk-1c252c?style=for-the-badge&logo=vk)](https://vk.com/iliziumlion)
 <!--
 **iliziumlion/iliziumlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
