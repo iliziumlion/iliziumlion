@@ -14,7 +14,7 @@
 ![node.js](https://img.shields.io/badge/-node-090909?style=for-the-badge&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=Laravel)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-090909?style=for-the-badge&logo=Codeigniter)
-![Bitrix](https://img.shields.io/badge/-Bitrix-090909?style=for-the-badge&logo=Bitrix)
+![bitrix](https://img.shields.io/badge/-bitrix-090909?style=for-the-badge&logo=bitrix)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
@@ -22,8 +22,14 @@
 ![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 ![scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=scss)
 
-Follow me
+## Follow me
 
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/iliziumlion)
+[![Vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk)](https://vk.com/iliziumlion)
+
+
+## GitHub followers
+![](https://img.shields.io/github/followers/iliziumlion)
 <!--
 **iliziumlion/iliziumlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
