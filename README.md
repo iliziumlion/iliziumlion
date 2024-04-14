@@ -1,4 +1,4 @@
-[![Header](https://github.com/iliziumlion/iliziumlion/blob/main/assets/header.jpg)](https://github.com/iliziumlion)
+[![Header](https://github.com/iliziumlion/iliziumlion/blob/main/assets/header2.jpeg)](https://github.com/iliziumlion)
 
 <!-- About me -->
 
