@@ -27,9 +27,6 @@
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/iliziumlion)
 [![Vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk)](https://vk.com/iliziumlion)
 
-
-## GitHub followers
-![](https://img.shields.io/github/followers/iliziumlion)
 <!--
 **iliziumlion/iliziumlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
