@@ -18,15 +18,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
-![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css)
+![css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css)
 ![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 ![scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=scss)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliziumlion&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iliziumlion&repo=devlion&show_owner=true)](https://github.com/iliziumlion/devlion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iliziumlion&repo=devlion&show_owner=true&theme=city_lights)](https://github.com/iliziumlion/devlion)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliziumlion&hide=makefile,dockerfile,EJS,ruby&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliziumlion&hide=makefile,dockerfile,EJS,ruby&theme=city_lights&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Follow me
 
