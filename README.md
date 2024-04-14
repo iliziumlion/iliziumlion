@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliziumlion&hide=makefile,dockerfile,EJS,ruby&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Follow me
+## Social links
 
 [![Telegram](https://img.shields.io/badge/-telegram-09131c?style=for-the-badge&logo=telegram)](https://t.me/iliziumlion)
 [![Vk](https://img.shields.io/badge/-vk-09131c?style=for-the-badge&logo=vk)](https://vk.com/iliziumlion)
