@@ -22,16 +22,15 @@
 ![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 ![scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=scss)
 
-## Follow me
-
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/iliziumlion)
-[![Vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk)](https://vk.com/iliziumlion)
-
-
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliziumlion&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliziumlion&hide=,makefile,dockerfile,EJS,ruby&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Follow me
+
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/iliziumlion)
+[![Vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk)](https://vk.com/iliziumlion)
 <!--
 **iliziumlion/iliziumlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
