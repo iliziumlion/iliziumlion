@@ -4,7 +4,7 @@
 
 ## Languages and Tools
 ![PHP](https://img.shields.io/badge/-PHP-09131c?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/-Python-09131c?style=for-the-badge&logo=python)
+#![Python](https://img.shields.io/badge/-Python-09131c?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-09131c?style=for-the-badge&logo=MySQL)
 ![javascript](https://img.shields.io/badge/-javascript-09131c?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/-typescript-09131c?style=for-the-badge&logo=typescript)
