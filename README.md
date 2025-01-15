@@ -9,8 +9,6 @@
 ![bitrix](https://img.shields.io/badge/-bitrix-09131c?style=for-the-badge&logo=bitrix)
 ![Docker](https://img.shields.io/badge/-Docker-09131c?style=for-the-badge&logo=docker)
 ![MySQL](https://img.shields.io/badge/-MySQL-09131c?style=for-the-badge&logo=MySQL)
-<!--![Python](https://img.shields.io/badge/-Python-09131c?style=for-the-badge&logo=python)-->
-
 ![javascript](https://img.shields.io/badge/-javascript-09131c?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/-typescript-09131c?style=for-the-badge&logo=typescript)
 ![jQuery](https://img.shields.io/badge/-jQuery-09131c?style=for-the-badge&logo=jQuery)
