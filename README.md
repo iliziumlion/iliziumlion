@@ -4,18 +4,19 @@
 
 ## Languages and Tools
 ![PHP](https://img.shields.io/badge/-PHP-09131c?style=for-the-badge&logo=php)
-<!--![Python](https://img.shields.io/badge/-Python-09131c?style=for-the-badge&logo=python)-->
+![Laravel](https://img.shields.io/badge/-Laravel-09131c?style=for-the-badge&logo=Laravel)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-09131c?style=for-the-badge&logo=Codeigniter)
+![bitrix](https://img.shields.io/badge/-bitrix-09131c?style=for-the-badge&logo=bitrix)
+![Docker](https://img.shields.io/badge/-Docker-09131c?style=for-the-badge&logo=docker)
 ![MySQL](https://img.shields.io/badge/-MySQL-09131c?style=for-the-badge&logo=MySQL)
+<!--![Python](https://img.shields.io/badge/-Python-09131c?style=for-the-badge&logo=python)-->
+
 ![javascript](https://img.shields.io/badge/-javascript-09131c?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/-typescript-09131c?style=for-the-badge&logo=typescript)
 ![jQuery](https://img.shields.io/badge/-jQuery-09131c?style=for-the-badge&logo=jQuery)
 ![React](https://img.shields.io/badge/-React-09131c?style=for-the-badge&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-09131c?style=for-the-badge&logo=vue.js)
 ![node.js](https://img.shields.io/badge/-node-09131c?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-09131c?style=for-the-badge&logo=Laravel)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-09131c?style=for-the-badge&logo=Codeigniter)
-![bitrix](https://img.shields.io/badge/-bitrix-09131c?style=for-the-badge&logo=bitrix)
-![Docker](https://img.shields.io/badge/-Docker-09131c?style=for-the-badge&logo=docker)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-09131c?style=for-the-badge&logo=HTML5)
 ![css](https://img.shields.io/badge/-css-09131c?style=for-the-badge&logo=css)
